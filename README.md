@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 Привет, я Дмитрий (Wile)
 
-<!--
-**0WiLe0/0WiLe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий backend разработчик.  
+Работаю с PHP. Разрабатываю pet-проекты, доводя их до рабочего состояния.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Технологии
+
+- PHP, Laravel
+- MySQL
+- HTML, CSS, JavaScript
+- MVC, Service Layer
+- REST
+- Git
+
+---
+
+## 🚀 Проекты
+
+### 🎥 Memories — Time Capsule Video App
+Laravel-приложение для записи видеопосланий с блокировкой доступа по дате.  
+**Стек:** Laravel, PHP, MySQL, JS  
+🔗 Репозиторий: [Memories](#)
+
+---
+
+### 🖼 PixelPerfectGallery — Online Gallery
+Дипломный проект: онлайн-галерея изображений с профилями, лентой, комментариями и сообщениями.  
+**Стек:** Laravel, PHP, MySQL, HTML, CSS, JS  
+🔗 Репозиторий: [PixelPerfectGallery](#)
+
+---
+
+### 📺 AnimeBox — Frontend UI
+Frontend-прототип стримингового сервиса аниме.  
+**Стек:** HTML, CSS, JavaScript  
+🔗 Репозиторий: [AnimeBox](#)
+
+---
+
+## 🎯 Сейчас изучаю
+- Углубление Laravel
+- Архитектуру backend-приложений
+- Чистый JavaScript
+
+---
+
+## 📫 Контакты
+- Telegram: @WILE_4
+- Email: phantom45741@gmail.com
